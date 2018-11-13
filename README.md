@@ -40,3 +40,9 @@ $ bundle exec rspec
 
 ## Requirements
 - ruby 2.5.0 (See .ruby-version)
+
+## License
+[MIT](https://github.com/mitsu9/gmailer/blob/master/LICENSE)
+
+## Auther
+[Mitsunobu Homma](https://github.com/mitsu9)
