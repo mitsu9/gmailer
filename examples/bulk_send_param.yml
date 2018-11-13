@@ -1,0 +1,6 @@
+subject: "Hello world!"
+params:
+  - email: "a@gmail.com"
+    name: "Aaron"
+  - email: "b@gmail.com"
+    name: "Barrett"
